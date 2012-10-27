@@ -1,0 +1,5 @@
+ def kumanomimi
+ 	@kuma = kumaF.new
+
+
+ end
